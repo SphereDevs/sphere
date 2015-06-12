@@ -1,0 +1,9 @@
+Building Sphere
+
+See doc/readme-qt.rst for instructions on building Sphere QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sphere.
+
+See doc/build-*.txt for instructions on building sphered,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sphere.
